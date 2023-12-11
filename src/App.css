@@ -66,3 +66,8 @@ button:hover {
   color: #333;
   font-size: 18px;
 }
+
+.list-user{
+  font-weight: 600;
+  text-decoration: underline
+}
