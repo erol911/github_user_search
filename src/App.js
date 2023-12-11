@@ -73,7 +73,7 @@ function App() {
     </div>
     </div>
     <br/>
-    <footer className=''>Bu uygulama sevgili arkadaşım Oktay Hızarcı'ya ithafen yapılmıştır.</footer></>
+    <footer className='okito'>Bu uygulama sevgili arkadaşım Oktay Hızarcı'ya ithafen yapılmıştır.</footer></>
   );
 }
 
